@@ -1,0 +1,33 @@
+Date;Account;Type;Category;Subcategory;Amount;Currency;Note
+2024-01-07 18:19:20;Chi tiêu;Expenses;Eating Out;;-38000;VND;
+2024-01-07 11:52:58;Chi tiêu;Expenses;Groceries;Winmart;-51000;VND;
+2024-01-07 10:34:16;Chi tiêu;Expenses;Eating Out;;-95000;VND;Ăn sáng
+2024-01-07 09:25:52;Chi tiêu;Expenses;Eating Out;;-12000;VND;Cháo
+2024-01-06 22:31:49;Chi tiêu;Income;Extra Income;;2500000;VND;C hà trả
+2024-01-06 22:30:46;Chi tiêu;Expenses;Phone & Internet;;-2209000;VND;Nhà c hà
+2024-01-06 19:37:04;Chi tiêu;Expenses;Eating Out;;-290000;VND;Nem nướng
+2024-01-06 19:35:37;Chi tiêu;Expenses;Groceries;;-35000;VND;Tăm
+2024-01-06 17:07:02;Chi tiêu;Expenses;Eating Out;Café;-149000;VND;
+2024-01-06 17:06:09;Chi tiêu;Expenses;Transport;;-33000;VND;Ship
+2024-01-05 22:00:20;Chi tiêu;Expenses;Phone & Internet;;-368000;VND;
+2024-01-05 20:30:09;Chi tiêu;Expenses;Housing;;-973790;VND;Phí dv
+2024-01-05 20:26:00;Chi tiêu;Expenses;Groceries;;-84145;VND;Shoppe
+2024-01-05 20:25:25;Chi tiêu;Expenses;Clothing;;-910000;VND;Mỹ phẩm
+2024-01-05 16:47:22;Chi tiêu;Income;Extra Income;;1285141;VND;Scan
+2024-01-04 18:10:34;Chi tiêu;Expenses;Groceries;;-238220;VND;
+2024-01-04 18:07:50;Chi tiêu;Expenses;Transport;Car;-25000;VND;
+2024-01-04 15:57:27;Chi tiêu;Expenses;Eating Out;;-35000;VND;Cơm trưa
+2024-01-04 15:52:54;Chi tiêu;Income;Salary;;11192400;VND;Lương
+2024-01-04 07:34:35;Chi tiêu;Expenses;Transport;Taxi;-21000;VND;
+2024-01-03 18:05:53;Chi tiêu;Expenses;Personal;;-50000;VND;Gội đầu
+2024-01-03 18:05:17;Chi tiêu;Expenses;Groceries;;-436000;VND;C hà
+2024-01-03 18:05:01;Chi tiêu;Expenses;Eating Out;Café;-35000;VND;
+2024-01-03 15:14:51;Chi tiêu;Expenses;Transport;Taxi;-131000;VND;Sang nhà chị hà
+2024-01-03 11:08:57;Chi tiêu;Expenses;Eating Out;;-40000;VND;Bánh mỳ
+2024-01-03 06:42:00;Chi tiêu;Income;Extra Income;;500000;VND;C hà
+2024-01-02 09:49:00;Chi tiêu;Expenses;Groceries;;-590000;VND;Sữa công thức
+2024-01-02 07:57:00;Chi tiêu;Expenses;Groceries;;-124264;VND;Winmart
+2024-01-02 07:57:00;Chi tiêu;Income;Extra Income;;300000;VND;Tiền ăn
+2024-01-02 07:56:00;Chi tiêu;Expenses;Transport;;-90000;VND;Tiền ship
+2024-01-01 07:55:00;Chi tiêu;Expenses;Groceries;;-254395;VND;Winmart
+2024-01-01 07:55:00;Chi tiêu;Expenses;Groceries;;-117700;VND;Winmart
